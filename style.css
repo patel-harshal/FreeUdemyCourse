@@ -6,7 +6,7 @@ body{
 	background-image: linear-gradient(to right top, #0de1e1, #00d7de, #00ccda, #0dc2d5, #1bb7cf);
 	background-repeat: no-repeat;
 	width: 100%;
-	height: 100vh;
+	height: 100%;
 	background-size: 400% 400%;
 	position: relative;
 
@@ -17,4 +17,22 @@ body{
 	margin-top: 20px;
 	margin-right: 50px;
 	margin-left: 50px;
+}
+#sty-contant{
+	text-align: center;
+	margin-top: 25px;
+}
+#course-name{
+	font-size: 20px;
+	color: white;
+}
+#contact{
+	text-align: center;
+	color: white;
+	margin-top: 10px;
+	font-size: 25px;
+}
+#contact-logo{
+	height: 30px;
+	margin-right: 20px;
 }
